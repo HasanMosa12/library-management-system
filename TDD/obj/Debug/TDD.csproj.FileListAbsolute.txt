@@ -1,0 +1,10 @@
+C:\Users\hmosa\source\repos\TDD\TDD\obj\Debug\TDD.csproj.AssemblyReference.cache
+C:\Users\hmosa\source\repos\TDD\TDD\obj\Debug\TDD.Properties.Resources.resources
+C:\Users\hmosa\source\repos\TDD\TDD\obj\Debug\TDD.csproj.GenerateResource.cache
+C:\Users\hmosa\source\repos\TDD\TDD\obj\Debug\TDD.csproj.CoreCompileInputs.cache
+C:\Users\hmosa\source\repos\TDD\TDD\obj\Debug\TDD.Form1.resources
+C:\Users\hmosa\source\repos\TDD\TDD\bin\Debug\TDD.exe.config
+C:\Users\hmosa\source\repos\TDD\TDD\bin\Debug\TDD.exe
+C:\Users\hmosa\source\repos\TDD\TDD\bin\Debug\TDD.pdb
+C:\Users\hmosa\source\repos\TDD\TDD\obj\Debug\TDD.exe
+C:\Users\hmosa\source\repos\TDD\TDD\obj\Debug\TDD.pdb
